@@ -184,4 +184,4 @@ Crear un curso completo es un proyecto bastante grande, pero puedo ayudarte a es
 - Despliegue de la aplicación en un servidor o plataforma de hosting
     Una vez que hayas preparado tu aplicación Nuxt 3, puedes desplegarla en un servidor o plataforma de hosting. Puedes utilizar servicios como Vercel, Netlify o AWS Amplify para desplegar tu aplicación de manera sencilla. Estos servicios proporcionan integraciones directas con Nuxt 3 y te permiten desplegar tu aplicación con solo unos pocos clics.
 
-Cada uno de estos temas podría ser una sección del curso, con varias lecciones dentro de cada sección que cubren los subtemas en detalle. Recuerda que este es solo un plan de estudio básico y puedes adaptarlo según las necesidades de tu proyecto.
+Cada uno de estos temas podría ser una sección del curso, con varias lecciones dentro de cada sección que cubren los subtemas en detalle. Recuerda que este es solo un plan de estudio básico y puedes adaptarlo según las necesidades de tu proyecto
