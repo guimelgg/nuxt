@@ -14,7 +14,7 @@ Crear un curso completo es un proyecto bastante grande, pero puedo ayudarte a es
     Una vez que hayas configurado tu entorno de desarrollo, puedes crear un nuevo proyecto en Nuxt 3 utilizando la CLI (Command Line Interface) de Nuxt. Simplemente ejecuta el siguiente comando en tu terminal:
 
     ```bash
-    npx create-nuxt-app nombre-del-proyecto
+    npx nuxi@latest init nombre-del-proyecto
     ```
 
     Esto creará una nueva carpeta con la estructura básica de un proyecto Nuxt 3 y todas las dependencias necesarias.
